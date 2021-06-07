@@ -1,6 +1,6 @@
 #！！！请修改！！！！！
 $StorageAccountName = "wvdfslogix"
-$SAkey = "zBuRHaGYSIo2hygFBFU8tq8HN+Afe+kw1dKFGkHVAxTg5Jg1APz8qupj5LEy8RBrKU2yWb4n/YZVSeAeHSjBfQ=="
+$SAkey = "xxxxxx-your-storage-account-key"
 $sharename = "wvduserprofile"
 $DesiredDriveLetter = "z:"
 
